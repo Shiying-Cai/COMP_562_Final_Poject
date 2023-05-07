@@ -9,6 +9,6 @@ Dataset: Home Loan Approval (from Kaggle)
 
 Description: Given an applicant's information, predict whether his or her home loan can be approved. Inviduals hoping to get home loan may use this model to predict their application results, and home loan companies may use this model to judge whether an applicant's application should be approved.
 
-Methods/models used: Linear Regression, Lasso, Ridge, Logistic, KNN, SVM, LDA, simple neural netowrks, decision trees, random forest
+Methods/models used: Linear Regression, Lasso, Ridge, Logistic, KNN, SVM, LDA, simple neural networks, decision trees, random forest
 
 
